@@ -8,4 +8,5 @@ func main() {
 	fmt.Printf("Second Change")
 	fmt.Printf("Third Change")
 	fmt.Printf("fourth Change")
+	fmt.Printf("New Change")
 }
